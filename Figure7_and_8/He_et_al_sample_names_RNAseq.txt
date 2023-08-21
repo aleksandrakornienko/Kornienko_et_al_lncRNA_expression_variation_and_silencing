@@ -1,0 +1,15 @@
+RNA_ddcc.rep1
+RNA_ddcc.rep2
+RNA_ddcc.rep3
+RNA_mddcc.rep1
+RNA_mddcc.rep2
+RNA_mddcc.rep3
+RNA_met1-9.rep1
+RNA_met1-9.rep2
+RNA_met1-9.rep3
+RNA_WT.rep1
+RNA_WT.rep2
+RNA_WT.rep3
+RNA_WT_ML.rep1
+RNA_WT_ML.rep2
+RNA_WT_ML.rep3
